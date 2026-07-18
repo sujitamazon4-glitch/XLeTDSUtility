@@ -4,5 +4,3 @@ ReleaseDate=18-Jul-2026
 Title=New Version Available
 Message=A newer version of e-TDS Utility is available.
 WhatsNew=• Improved Performance|• Minor Bug Fixes|• Enhanced Validation
-
-https://adityabirla-my.sharepoint.com/:t:/p/sujit_talukder/IQBSvvt57h0oRop94cIaGqnfAenVUplcQmXtUzTI64aNGM4?email=talukdersujit%40gmail.com&e=U26WY9
