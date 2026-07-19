@@ -1,7 +1,7 @@
-Version=1.0.1
+Version=1.0.0
 Build=20260718
 ReleaseDate=18-Jul-2026
 Title=New Version Available
-Message=A newer version of e-TDS Utility is available.
+Message= A newer version of e-TDS Utility is available.
 DownloadURL=https://www.taxcorner.co.in/p/xl-etds-utility-version.html
 WhatsNew=• Improved Performance|• Minor Bug Fixes|• Enhanced Validation
